@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  display: flex;
+  /* align-items: center;
+  justify-content: center; */
+  width: 100vw;
+}
+
+.gallery::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+
+.gallery {
+  height: 90vh;
+  overflow: scroll;
+  display: flex;
+  flex-wrap: wrap;
+  width: 70vw;
+}
+
+.gallery {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

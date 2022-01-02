@@ -1,0 +1,113 @@
+.d1 {
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 80px;
+  letter-spacing: -3px;
+}
+
+.d2 {
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 62px;
+  letter-spacing: -2.4px;
+}
+
+.d3 {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 44px;
+  letter-spacing: -1.5px;
+}
+
+.l1 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.55px;
+}
+
+.l2 {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: -0.4px;
+}
+
+.b1 {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: "auto";
+  letter-spacing: -0.4px;
+}
+
+.b2 {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.4px;
+}
+
+.b3 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: -0.5px;
+}
+
+.b3 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: -0.5px;
+}
+
+.p1 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: -0.4px;
+}
+
+.p2 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: -0.4px;
+}
+
+.p3 {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: -0.2px;
+}
+
+.p3 {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.4px;
+}
+
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}

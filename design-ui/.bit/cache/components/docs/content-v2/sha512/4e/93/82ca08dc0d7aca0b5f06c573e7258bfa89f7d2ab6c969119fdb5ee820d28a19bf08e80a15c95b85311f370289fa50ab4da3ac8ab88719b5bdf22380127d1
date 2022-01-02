@@ -1,0 +1,1 @@
+[{"filePath":"number-input.jsx","name":"NumberInput","description":"","properties":[{"name":"defaultValue","required":false,"type":"?","defaultValue":{"value":"0","computed":false}}],"access":"public","methods":[],"args":[],"examples":[]}]
