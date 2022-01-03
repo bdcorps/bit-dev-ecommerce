@@ -1,0 +1,69 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/button"
+      },
+      "isSymlink": true,
+      "hash": "6e10f814d61b688ebc8b59fb617ad611ff01d70c"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/number-input"
+      },
+      "isSymlink": true,
+      "hash": "b42d17215ee22912b72749a5f2d15463694550d0"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/select"
+      },
+      "isSymlink": true,
+      "hash": "6ff5d02e7257ddeac4a196599881179f21c55280"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/text"
+      },
+      "isSymlink": true,
+      "hash": "42d2b7f4b8970d42d80ae2636dcdbb70f494f4d6"
+    },
+    {
+      "id": {
+        "scope": "sssaini.ecommerce",
+        "name": "ui/button"
+      },
+      "isSymlink": false,
+      "hash": "e76bf55321e96c3c124a378f1bba9e324823b7d7"
+    },
+    {
+      "id": {
+        "scope": "sssaini.ecommerce",
+        "name": "ui/number-input"
+      },
+      "isSymlink": false,
+      "hash": "e4bc47cce3a3d94fe42c5e183a7dcc53d56b5d08"
+    },
+    {
+      "id": {
+        "scope": "sssaini.ecommerce",
+        "name": "ui/select"
+      },
+      "isSymlink": false,
+      "hash": "232d11bc39681337ccc6f42f0893dca4c64ef227"
+    },
+    {
+      "id": {
+        "scope": "sssaini.ecommerce",
+        "name": "ui/text"
+      },
+      "isSymlink": false,
+      "hash": "69e7669b9248da51b972d5eb6715b9b19a6186ca"
+    }
+  ],
+  "lanes": []
+}

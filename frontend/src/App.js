@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import { Text } from "@sssaini/ecommerce-demo.ui.text"
-import { NumberInput } from "@sssaini/ecommerce-demo.ui.number-input"
-import { Select } from "@sssaini/ecommerce-demo.ui.select"
-import { Button } from "@sssaini/ecommerce-demo.ui.button"
+import { Text } from "@sssaini/ecommerce.ui.text"
+import { NumberInput } from "@sssaini/ecommerce.ui.number-input"
+import { Select } from "@sssaini/ecommerce.ui.select"
+import { Button } from "@sssaini/ecommerce.ui.button"
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 
 

@@ -1,1 +1,0 @@
-[{"filePath":"text.jsx","name":"Text","description":"","properties":[{"name":"align","required":false,"type":"?","defaultValue":{"value":"\"left\"","computed":false}}],"access":"public","methods":[],"args":[],"examples":[]}]

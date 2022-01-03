@@ -1,0 +1,30 @@
+[
+  {
+    "id": {
+      "scope": "sssaini.ecommerce",
+      "name": "ui/button"
+    },
+    "head": "ca091ae8c6096403c02e5d155c825130e46d646d"
+  },
+  {
+    "id": {
+      "scope": "sssaini.ecommerce",
+      "name": "ui/number-input"
+    },
+    "head": "d91dff1a95f99f81d0e3ef36644df1f98970831a"
+  },
+  {
+    "id": {
+      "scope": "sssaini.ecommerce",
+      "name": "ui/select"
+    },
+    "head": "763bbe4704b77f80f50f7ec9a6b0a913b48d9e31"
+  },
+  {
+    "id": {
+      "scope": "sssaini.ecommerce",
+      "name": "ui/text"
+    },
+    "head": "cbcb0ef6fa759e7e8d53d438125179c68d0f8637"
+  }
+]

@@ -1,0 +1,1 @@
+[{"filePath":"select.tsx","name":"Select","description":"","properties":[{"name":"defaultValue","description":"","required":false,"type":"number","defaultValue":{"value":"0","computed":false}},{"name":"label","description":"","required":true,"type":"string"}],"access":"public","methods":[],"args":[],"examples":[]}]

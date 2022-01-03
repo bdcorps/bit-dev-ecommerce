@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.bit.dev/teambit/schemas/schema.json",
+  "teambit.workspace/workspace": {
+    "name": "ecommerce-demo",
+    "icon": "https://static.bit.dev/bit-logo.svg",
+    "defaultDirectory": "{scope}/{name}",
+    "defaultScope": "sssaini.ecommerce"
+  },
+  "teambit.dependencies/dependency-resolver": {
+    "packageManager": "teambit.dependencies/pnpm",
+    "policy": {
+      "dependencies": {},
+      "peerDependencies": {
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "@testing-library/react": "12.0.0"
+      }
+    }
+  },
+  "teambit.workspace/variants": {
+    "*": {
+      "teambit.react/react": {}
+    }
+  }
+}
